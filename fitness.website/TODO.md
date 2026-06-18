@@ -1,0 +1,5 @@
+- [ ] Replace `script.js` with standard chess rules engine (legal moves w/ king safety, castling, en-passant, promotion)
+- [ ] Add check / checkmate / stalemate detection
+- [ ] Improve computer opponent (minimax depth 2)
+- [ ] Verify two-player + computer turn flow
+- [ ] Quick manual test checklist
